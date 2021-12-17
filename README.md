@@ -1,5 +1,5 @@
 ## Pandas_Mini_Project
-Pandas is a powerful Python data analysis tool. It is built in on top of Numpy which makes it faster and efficient. It supports manipulation of data. It has two main data structures, one is Panda Series which is one dimensional array of object and another one is Pandas Dataframe. Pandas can hold different type of data together. This mini project provides the fundamentals of Pandas by analysising the stock data from three different companies.
+Pandas is a powerful Python data analysis tool. It is built in on top of Numpy which makes it faster and efficient. It supports the manipulation of data. It has two main data structures, one is Pandas Series which is one dimensional array of object and another one is Pandas Dataframe. Pandas can hold different type of data together. This mini project provides the fundamentals of Pandas by analysising the stock data from three different companies.
 ## Acknowledgement
 This mini project is for Udacity Nanodegree Program (https://www.udacity.com/course/data-scientist-nanodegree--nd025). Thanks to Udacity for arranging this project to strengthen our knowledge. This project platform has been taken from Udacity.
 
