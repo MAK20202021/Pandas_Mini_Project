@@ -10,7 +10,7 @@ This mini project is for providing a fundamental idea on how to utilize Pandas. 
 This project needs Anaconda package(Anaconda3), Jupyter Notebook (6.1.4)
 
 ## File Description
-All stock for for Google, Apple, and Amazon are uploaded as GOOG.csv, APLE.csv and AMZN.csv.
+All stock data for Google, Apple, and Amazon are uploaded as GOOG.csv, AAPL.csv and AMZN.csv.
 The source code is in Pandas_Mini_project.ipynb
 ## Discussion
 After completing this mini project, I understand how easily we can use Pandas and manipulate data.
